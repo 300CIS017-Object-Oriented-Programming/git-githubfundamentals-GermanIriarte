@@ -105,3 +105,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+##  Markdown file
+
+He aprendido los conceptos básicos de **github**, tales como lo que es un reposirotio, un commit, las ramas, , los clones, los forks, etc. Aún me confunde un poco su funcionamiento como tal debido a que nunca he trabajado con una plataforma com tal, estoy totalmente desfamiliarizado, y por tanto no sé qué tan vital sea en cuanto a lo que brinde en la práctica. 
